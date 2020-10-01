@@ -1,0 +1,70 @@
+
+  .main {
+        display: block;
+}
+  
+  body {
+        font-family: 'Sansita Swashed', cursive;
+        margin: 0;
+        height: 768px;
+        background-color: #2A7507;
+        background-image: linear-gradient(#E8F5E0, #2A7507);
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+ }
+
+    * {
+        box-sizing: border-box;
+}
+
+    h1 {
+        font-family: 'Sansita Swashed', cursive;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    h2 {
+        font-family: 'Sansita Swashed', cursive;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    p {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    .text_white {
+        color: #ffffff;
+}
+
+    .text_white {
+        color: #000000;
+}
+
+    .text_standard {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    .text_cursive {
+        font-family: 'Sansita Swashed', cursive;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    ul {
+        list-style: none;
+        text-align: center;
+}
+
+
