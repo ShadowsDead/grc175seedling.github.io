@@ -33,6 +33,13 @@
         text-align: center;
 }
 
+    h3 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
     p {
         font-family: 'PT Sans Narrow', sans-serif;
         font-weight: normal;
@@ -62,9 +69,7 @@
         text-align: center;
 }
 
-    ul {
-        list-style: none;
-        text-align: center;
+/*--- Bootstrap Padding Fix --*/
+    [class*="col-"] {
+        padding: 1rem;
 }
-
-
